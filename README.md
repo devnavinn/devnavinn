@@ -40,5 +40,5 @@ I'm a passionate web developer with 1.5 years of experience in the MERN (MongoDB
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devnavin)
+- LinkedIn: [Navin Kumar](https://www.linkedin.com/in/devnavin)
 
